@@ -39,3 +39,5 @@ You can show the weather data in a dashboard or any desired format.
 Here's a simplified implementation:
 
 Backend (Node.js with Express.js):
+
+This is a basic implementation. You may need to customize it further based on your requirements, such as adding more features, handling more error cases, or improving the UI/UX. Also, remember to replace 'YOUR_API_KEY' with your actual API key from OpenWeatherMap.
